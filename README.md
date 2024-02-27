@@ -14,7 +14,8 @@
 ## Exploratory Data Analysis
 Looked into all the features of the data and did Uni-variate and Bi-variate and Multi-variate analysis on the data in relation to Stroke. One of the plots from the EDA can be seen in the pictures below.
 
-![alt text](https://github.com/ricky1435/Stroke-Prediction/blob/main/Work%20type%20and%20stroke.png "Relation between Work type and Stroke Occurence")
+![Work type and stroke](https://github.com/manitejaladi/Stroke-prediction-using-streamlit/assets/152344541/c2a9b94d-fc25-4454-8a1d-d4bda99dd1d7)
+
 
 ## Data Preprocesing
 * Removed all unnecessary columns
@@ -39,4 +40,4 @@ As I am considering AUC as my measure of model performance, **Logistic Regressio
 * **Random Forest Classifier** - AUC: 0.76
 
 ## Author
-[Ruthvik PVS](https://github.com/ricky1435)
+[Maniteja Ladi](https://github.com/manitejaladi)
